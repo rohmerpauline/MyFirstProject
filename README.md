@@ -20,3 +20,4 @@
 #### Some Informations about Git branching : 
 (https://opensource.com/article/18/5/git-branching)
 
+> There will be two kinds of people in the world, those who tell computers what to do, and those who're told by computers what to do.
