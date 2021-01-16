@@ -18,5 +18,5 @@
 6. git push
 
 #### Some Informations about Git branching : 
-(https://opensource.com/article/18/5/git-branching)
+[Guide to guide branching](https://opensource.com/article/18/5/git-branching)
 
